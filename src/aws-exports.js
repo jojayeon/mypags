@@ -3,9 +3,9 @@
 
 const awsmobile = {
     "aws_project_region": "ap-northeast-2",
-    "aws_content_delivery_bucket": "js3usxl-20241007035712-hostingbucket-dev",
+    "aws_content_delivery_bucket": "mypags-20241007234619-hostingbucket-dev",
     "aws_content_delivery_bucket_region": "ap-northeast-2",
-    "aws_content_delivery_url": "https://d2gda1eyvs4brm.cloudfront.net"
+    "aws_content_delivery_url": "https://d25msum2rm2dt2.cloudfront.net"
 };
 
 

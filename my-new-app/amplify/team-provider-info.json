@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mypages-dev-8a70c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050142953:role/amplify-mypages-dev-8a70c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050142953:role/amplify-mypages-dev-8a70c-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-mypages-dev-8a70c-deployment",
+      "UnauthRoleName": "amplify-mypages-dev-8a70c-unauthRole",
+      "StackName": "amplify-mypages-dev-8a70c",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:975050142953:stack/amplify-mypages-dev-8a70c/6f9ba5c0-8982-11ef-9eff-02beb9f089f3",
+      "AmplifyAppId": "d33w55x11vfm6e"
+    }
+  },
+  "mypages": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mypages-mypages-fb09b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050142953:role/amplify-mypages-mypages-fb09b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050142953:role/amplify-mypages-mypages-fb09b-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-mypages-mypages-fb09b-deployment",
+      "UnauthRoleName": "amplify-mypages-mypages-fb09b-unauthRole",
+      "StackName": "amplify-mypages-mypages-fb09b",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:975050142953:stack/amplify-mypages-mypages-fb09b/ce1a35c0-8983-11ef-853a-06d814184821",
+      "AmplifyAppId": "d33w55x11vfm6e"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
